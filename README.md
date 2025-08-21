@@ -1,6 +1,6 @@
 # Teste Técnico - Iniflex (Projedata)
 
-Este projeto implementa os requisitos do teste prático de programação* utilizando Java 21.
+Este projeto implementa os requisitos do teste prático de programação utilizando Java 21.
 
 ## Estrutura do projeto
 
